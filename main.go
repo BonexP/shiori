@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com//BonexP/shiori/internal/cmd"
+	"github.com/BonexP/shiori/internal/cmd"
 	"github.com/sirupsen/logrus"
 
 	// Database driver

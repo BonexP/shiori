@@ -1,4 +1,4 @@
-module github.com/go-shiori/shiori
+module github.com/BonexP/shiori
 
 go 1.12
 
@@ -28,4 +28,3 @@ require (
 	google.golang.org/appengine v1.6.1 // indirect
 )
 
-replace github.com/go-shiori/shiori => github.com/BonexP/shiori

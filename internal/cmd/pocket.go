@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/go-shiori/shiori/internal/core"
-	"github.com/go-shiori/shiori/internal/model"
+	"github.com/BonexP/shiori/internal/core"
+	"github.com/BonexP/shiori/internal/model"
 	"github.com/spf13/cobra"
 )
 

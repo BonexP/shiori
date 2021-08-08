@@ -10,8 +10,8 @@ import (
 	fp "path/filepath"
 	"strconv"
 
-	"github.com/go-shiori/shiori/internal/core"
-	"github.com/go-shiori/shiori/internal/model"
+	"github.com/BonexP/shiori/internal/core"
+	"github.com/BonexP/shiori/internal/model"
 	"github.com/julienschmidt/httprouter"
 )
 

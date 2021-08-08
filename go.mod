@@ -1,4 +1,4 @@
-module github.com/BonexP/shiori
+module github.com/go-shiori/shiori
 
 go 1.12
 
@@ -27,3 +27,5 @@ require (
 	golang.org/x/tools v0.0.0-20190809145639-6d4652c779c4 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
 )
+
+replace github.com/go-shiori/shiori => github.com/BonexP/shiori
